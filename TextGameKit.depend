@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1715627267 source:c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\main.c
+	"common.h"
+	"ui.h"
+	"networking.h"
+	"text.h"
+
+1715184547 source:c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\menu.c
+	"menu.h"
+	<stdio.h>
+	<ctype.h>
+
+1715184508 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\menu.h
+
+1715184508 source:c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\menu.h
+
+1715185403 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\utils.h
+
+1715185634 source:c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\utils.c
+	"utils.h"
+
+1716563685 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\common.h
+	<ncurses.h>
+	"windows.h"
+
+1703246429 c:\msys64\mingw64\include\ncurses\ncurses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1703246429 c:\msys64\mingw64\include\ncursesw\ncurses_dll.h
+
+1703246429 c:\msys64\mingw64\include\ncursesw\unctrl.h
+	<ncursesw/curses.h>
+
+1703246429 c:\msys64\mingw64\include\ncursesw\curses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1716303215 source:c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\common.c
+	"common.h"
+
+1716565643 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\ui.h
+	<stdarg.h>
+	"common.h"
+
+1716565753 source:c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\ui.c
+	"ui.h"
+
+1716573656 source:c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\networking.c
+	"networking.h"
+
+1716413094 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\networking.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<iphlpapi.h>
+	<stdio.h>
+	<process.h>
+	<stdatomic.h>
+
+1715424253 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\text.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1715381937 source:c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\text.c
+	"text.h"
+
+1715673297 source:c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\math2d.c
+	"math2D.h"
+
+1715883267 c:\users\loris\documents\scuola\superiori\sistemi e reti\c\textgamekit\math2d.h
+	<math.h>
+	"common.h"
+
