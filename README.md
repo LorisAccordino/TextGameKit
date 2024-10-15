@@ -46,4 +46,4 @@ Feel free to open issues or pull requests if you'd like to contribute to improvi
 The library has been used in several projects, including:
 
 - [Battleship Game](https://github.com/LorisAccordino/Battleship-Game): A text-based game that uses `TextGameKit` for networking and rendering.
-- [Sudoku Game](https://github.com/LorisAccordino/Sudoku-C-Game): A console-based Sudoku game leveraging the library for managing user input and game flow.
+- [Sudoku Game](https://github.com/LorisAccordino/Sudoku-Game): A console-based Sudoku game leveraging the library for managing user input and game flow.
